@@ -1,0 +1,1678 @@
+<synsets>
+    <synset id="1" word="keel" type="nimisõna">
+        <generated>
+            <meaning>Elund suuõõnes, mida kasutatakse toidu maitsmiseks, neelamiseks ja mõnikord ka hingamiseks.</meaning>
+            <example>Ta maitstes mõru šokolaadi, tegi ta suuõõnes ringi oma keelega.</example>
+            <synonyms>['']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['keeleots', 'keelejuur', 'keelepealispind', 'keelepäis', 'keelealune', 'keeletipp', 'keelekõõlus', 'keeleääris']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['inimene', 'siseorgan', 'elund']</hypernyms>
+            <holonyms>['inimese_pea', 'inimene', 'inimkeha', 'suu', 'inimese_suu']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>keel.n.04</wn_name>
+            <meaning>toitu haarata, segada, maitsta ja neelata aitav ning häälitsemisel osalev liikuv elund suuõõne põhjas</meaning>
+            <synonyms>
+                        ['keel']
+            </synonyms>
+            <hyponyms>
+                        ['karuskeel', 'maakaartkeel', 'iminokk', 'kaheharuline keel', 'kurdkeel']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['elund']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>5</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>19</generated_size>
+                <actual_size>7</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>18</over_generated>
+                <under_generated>6</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="2" word="keel" type="nimisõna">
+        <generated>
+            <meaning>Inimese õpitud süsteem suhtlemiseks, kasutades häälikute jada, mida esitatakse suuliselt, žestikuleerides või kirjutades.</meaning>
+            <example>Inglise keel on maailmas üks levinumaid suhtluskeeli.</example>
+            <synonyms>['murre', 'dialekt', 'emakeel', 'kõnekeel', 'rahvakeel', 'sugulaskeel', 'võõrkeel']</synonyms>
+            <hyponyms>['eesti_keel', 'soome_keel', 'vene_keel', 'inglise_keel', 'prantsuse_keel', 'saksa_keel', 'hispaania_keel', 'hiina_keel', 'arabia_keel', 'jaapani_keel', 'itaalia_keel', 'portugali_keel', 'kreeka_keel', 'ladina_keel', 'sanskriti_keel', 'heebrea_keel', 'hindi_keel', 'urdu_keel', 'türgi_keel', 'rootsi_keel', 'norra_keel', 'taani_keel', 'islandi_keel', 'korealase_keel', 'hollandi_keel', 'ungari_keel', 'tšehhi_keel', 'poola_keel', 'ukraina_keel', 'leedu_keel', 'läti_keel', 'gaeli_keel', 'iiri_keel', 'bretooni_keel', 'pärsia_keel', 'indoneesia_keel', 'malai_keel', 'vietnami_keel', 'thai_keel', 'laos_keel', 'birma_keel', 'khmeeri_keel', 'tagalogi_keel', 'maoori_keel', 'havai_keel', 'esperanto', 'volapüki_keel', 'interlingva', 'silbo_gomero', '']</hyponyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['loomulik_keel', 'kommunikatsioonisüsteem', 'keel', 'sotsiaalne_kontrollimehhanism', 'lingvistiline_protsess', 'kõnesüsteem']</hypernyms>
+            <holonyms>['suhtluskeel', 'emakeel', 'võõrkeel', 'murre', 'väikekeel', 'rahvuskeel', 'indoeuroopa_keeled', 'soome-ugri_keeled', 'läänemeresoome_keeled', 'lõunaeuroopa_keeled']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>jutt.n.01</wn_name>
+            <meaning>verbaalne suhtlemine, see, mida keegi räägib, ütleb, jutustab</meaning>
+            <synonyms>
+                        ['jutt', 'keel', 'kõne']
+            </synonyms>
+            <hyponyms>
+                        ['pudikeel', 'räägitu', 'vihakõne', 'lapsejutt', 'kosjajutt', 'kiustejutt', 'jonnijutt', 'umbluu', 'hundijutt', 'jutustus', 'möla', 'loba', 'faama', 'jama', 'valejutt', 'jutlus', 'kiirkõne', 'ümbernurgajutt', 'monoloog']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['kommunikatsioon']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>7</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>3</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>50</generated_size>
+                <actual_size>19</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>50</over_generated>
+                <under_generated>19</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>0</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>0</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>10</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>74</generated_size>
+                <actual_size>23</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>74</over_generated>
+                <under_generated>23</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="3" word="keel" type="nimisõna">
+        <generated>
+            <meaning>Musikalis, näiteks lõõtsa, kitarri või klaveri osa, mis tekitab heli.</meaning>
+            <example>Ta piitsutas õrnalt klaveri keeli, tekitades meloodilist heli.</example>
+            <synonyms>['keelpill', 'heli_tekitav_osa', 'heli_tekitav_asi', 'keelstrument', 'muusikariista_osa']</synonyms>
+            <hyponyms>['kitarrikeel', 'klaverikeel', 'lõõtsakeel', 'bändžokeel', 'mandoliinikeel', 'tšellokeel', 'kontrabassikeel', 'viulikeel', 'kannelekeel', 'flöötkeel']</hyponyms>
+            <meronyms>['kitarr', 'lõõts', 'klaver', 'muusikariist']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['muusikainstrumentide_osa', 'string_instrumenti_komponent', 'string_vibrateeriv_osa', 'muusikaline_osa']</hypernyms>
+            <holonyms>['klaver', 'kitarr', 'lõõts']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>inimkeel.n.01</wn_name>
+            <meaning>kirja- või kõnekeel suhtlemisvahendina, vastandatud nn. tehiskeelele</meaning>
+            <synonyms>
+                        ['inimkeel', 'keel']
+            </synonyms>
+            <hyponyms>
+                        ['hõimukeel', 'kirjanduskeel', 'murrak', 'makrokeel', 'isolaat', 'teaduskeel', 'töökeel', 'kreooli keeled', 'vähemuskeel', 'riigikeel', 'rahvakeel', 'kirjakeel', 'asjaajamiskeel', 'keeled', 'emakeel', 'dialekt', 'õppekeel', 'arekeel', 'atšumavi keel', 'argikeel', 'ergatiiv-absolutiivne keel', 'uelsi', 'menetluskeel', 'koinee']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['keel']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>10</generated_size>
+                <actual_size>24</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>24</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>4</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>27</generated_size>
+                <actual_size>27</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>27</over_generated>
+                <under_generated>27</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="4" word="keel" type="nimisõna">
+        <generated>
+            <meaning>Mõnes purjetamise või sõudmise kontekstis kasutatav terav piklik osa, mis ulatub allapoole veesõiduki põhja, et parandada stabiilsust.</meaning>
+            <example>Purjeka põhja külge kinnitatud keel aitas laeva õiges suunas hoida.</example>
+            <synonyms>['sõukivi', 'sõud', 'kiil']</synonyms>
+            <hyponyms>['tavakeel', 'looder', 'fin', 'kil', 'uim', 'köü', 'köis', 'doctor']</hyponyms>
+            <meronyms>['purjekas', 'laev', 'veesõiduk', 'paat', 'jaht']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['laevaosa', 'veesõiduki_osa', 'sõiduki_osa', 'osad_ja_komponendid', 'osa', 'objekt,_asi', 'füüsiline_ese', 'füüsikaline_entiteet', 'entiteet']</hypernyms>
+            <holonyms>['purjekas', 'paat', 'laev']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>inimkeel.n.01</wn_name>
+            <meaning>kirja- või kõnekeel suhtlemisvahendina, vastandatud nn. tehiskeelele</meaning>
+            <synonyms>
+                        ['inimkeel', 'keel']
+            </synonyms>
+            <hyponyms>
+                        ['hõimukeel', 'kirjanduskeel', 'murrak', 'makrokeel', 'isolaat', 'teaduskeel', 'töökeel', 'kreooli keeled', 'vähemuskeel', 'riigikeel', 'rahvakeel', 'kirjakeel', 'asjaajamiskeel', 'keeled', 'emakeel', 'dialekt', 'õppekeel', 'arekeel', 'atšumavi keel', 'argikeel', 'ergatiiv-absolutiivne keel', 'uelsi', 'menetluskeel', 'koinee']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['keel']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>8</generated_size>
+                <actual_size>24</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>24</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>9</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>29</generated_size>
+                <actual_size>27</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>29</over_generated>
+                <under_generated>27</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="5" word="kurg" type="nimisõna">
+        <generated>
+            <meaning>Emas- või isasloomad oma järglaste sigitamiseks vajaliku kehaorganiga.</meaning>
+            <example>Mees otsustas oma kurgi kontrollimiseks arsti juurde minna.</example>
+            <synonyms>['munand', 'munasari', 'sugunääre']</synonyms>
+            <hyponyms>['meesorgan', 'suguelund']</hyponyms>
+            <meronyms>['munand', 'munajuha', 'munarakk', 'eesnääre', 'spermatosoid', 'seemnepõieke', 'sugunäärme_kanal', 'sugunääre', 'peenis', 'vahekorras_olemine', 'viljastumine']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['anatoomiline_struktuur', 'kehaosa', 'organismiosa', 'struktur', 'bioloogiline_struktuur', 'kehaosa', 'osa', 'objekt', 'füüsiline_objekt', 'füüsiline_entiteet', 'entiteet']</hypernyms>
+            <holonyms>['loom', 'inimene', 'mees', 'naine', 'loomad', 'lind', 'rohusööja', 'kiskja', 'imetaja', 'röövloom', 'lindude_klass']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>adrakurg.n.01</wn_name>
+            <meaning>kõver käepidemega puu (nt vannasadral) või raud (hõlmadral) adra juhtimiseks</meaning>
+            <synonyms>
+                        ['adrakurg', 'kurg']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['käepide']
+            </hypernyms>
+            <holonyms>
+                        ['ader']
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>11</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>11</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>11</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>1</under_generated>
+            </holonym>
+            <total>
+                <generated_size>39</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>38</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="6" word="kurg" type="nimisõna">
+        <generated>
+            <meaning>Filiaalimine(organismis) vahel põhja poole hingetoru kaela taga, ühendades selle suu ja ninaõõnega.</meaning>
+            <example>Külma ilmaga jõid kaks tassid sooja teed, et kurgu soojustada.</example>
+            <synonyms>['neelu', 'kurk', 'torkekoht']</synonyms>
+            <hyponyms>['mandlid', 'neelu', 'epiglotis', 'köha']</hyponyms>
+            <meronyms>['neelu', 'kõri', 'häälepaelad', 'mandlid', 'tonsillid']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['hingetee', 'hingamisteed', 'elund', 'anatoomia', 'anatoomiline_struktuur']</hypernyms>
+            <holonyms>['organism', 'keha', 'anatoomia', 'hingamissüsteem']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>kurg.n.01</wn_name>
+            <meaning>suur, pika noka ja kaela ning kõrgete jalgadega lind</meaning>
+            <synonyms>
+                        ['kurg']
+            </synonyms>
+            <hyponyms>
+                        ['sookurg', 'toonekurg']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['lind']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>4</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>22</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>22</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="7" word="kurg" type="nimisõna">
+        <generated>
+            <meaning>Linnuliik, millel on pikk kael ja jalad ning suudab lendada pikkadel vahemaadel.</meaning>
+            <example>Ma nägin iseäralikku lindu, vaatasin linnuraamatut ja sain teada, et see oli toonekurg.</example>
+            <synonyms>['toonekurg', 'suitsupääsuke', 'pelikan', 'stork', 'rook', 'ciconia', 'crane', 'rook', 'flamingo', 'heron', 'ibis', 'penguin', 'swan', 'pheasant', 'seriema', 'curlew', 'bird', 'woodpecker', 'sparrow', 'cuckoo', 'lark', 'crow', 'raven', 'parrot', 'dove', 'pigeon', 'quail', 'eagle', 'falcon', 'hawk', 'kite', 'owl', 'duck', 'goose', 'swan', 'gull', 'coot', 'cormorant', 'pelican', 'penguin', 'bird', 'chough']</synonyms>
+            <hyponyms>['toonekurg', 'naerukajakas', 'ränd-toonekurg', 'valge-toonekurg', 'must-toonekurg', 'kääbustoonekurg']</hyponyms>
+            <meronyms>['toonekurg', 'must-toonekurg', 'valge-toonekurg', 'särgkurg', 'härjaskurg', 'marabu', 'luik', 'jaburu', 'pelikan', 'flamingo', 'ibis', 'viupart']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['lind', 'toonekurg', 'kahlajaline']</hypernyms>
+            <holonyms>['linnud', 'pealinnud', 'toonekurglased']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>kurg.n.01</wn_name>
+            <meaning>suur, pika noka ja kaela ning kõrgete jalgadega lind</meaning>
+            <synonyms>
+                        ['kurg']
+            </synonyms>
+            <hyponyms>
+                        ['sookurg', 'toonekurg']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['lind']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>42</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>38</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>12</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>67</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>61</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="8" word="lill" type="nimisõna">
+        <generated>
+            <meaning>osa taimest, mis sisaldab seemneid või vilju ning on tavaliselt erksavärviline, et meelitada putukaid tolmeldamiseks.</meaning>
+            <example>Aias kasvavad roosid ja teised lilled on väga ilusad.</example>
+            <synonyms>['õis', 'õieke', 'kroonleht', 'õisik', 'õiepung']</synonyms>
+            <hyponyms>['dahlia', 'gladiool', 'iiris', 'kergmeel', 'moon', 'nartsiss', 'orhidee', 'päevalill', 'roos', 'saialill', 'tulip', 'violet']</hyponyms>
+            <meronyms>['terakene', 'õieleht', 'õisik', 'õis', 'emik', 'tolmukas', 'õiepõhi', 'õiekroon']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['taimeosa', 'elis']</hypernyms>
+            <holonyms>['taim', 'puu', 'põõsas', 'kaktus', 'muru', 'kroonlehed']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>lill.n.01</wn_name>
+            <meaning>kaunite õite, lehtede v. viljadega (roht)taim</meaning>
+            <synonyms>
+                        ['lill']
+            </synonyms>
+            <hyponyms>
+                        ['aas-geraanium', 'kopsurohi', 'kohhia', 'bellis', 'kirbutatar', 'kilpleht', 'kilbirohi', 'kassinaeris', 'roomav kummel', 'kann', 'kannatuslill', 'iisop', 'hiidiisop', 'hibisk', 'heliotroop', 'arabis', 'enelas', 'kosmos', 'sibullill', 'kurelill', 'tradeskantsia', 'salulill', 'ananassilill', 'kufee', 'selaginell', 'sahinlill', 'ruse', 'roniliilia', 'rõngaslill', 'rohtlaliilia', 'rodgersia', 'reseeda', 'harilik raudrohi', 'ageeratum', 'päikesesilm', 'püvilill', 'purpurvanik', 'pruudisõlg', 'preerialatern', 'portulak', 'portselanliilia', 'pisipööris', 'piiskenelas', 'petuunia', 'peekerlill', 'neitsikummel', 'naistenõges', 'mätashari', 'mõrsjalill', 'mõõl', 'monarda', 'mimoos', 'miina', 'metsvits', 'mesiohakas', 'merikann', 'meelistäht', 'maran', 'malve', 'malkolmia', 'lutiklill', 'lobeelia', 'lembeliilia', 'lehtertapp', 'lehterlill', 'käokannus', 'käbihein', 'kurgirohi', 'kuldlill', 'kukekannus', 'krambe', 'kõreliilia', 'kobarpea', 'kinglill', 'kipsleht', 'kilpkonnalill', 'keskpäevalill', 'kesalill', 'kellukas', 'kassitapp', 'kaksikkannus', 'jumikas', 'inkarvill', 'imikas', 'imelill', 'ibeeris', 'funkia', 'helmikpööris', 'ebamagun', 'brunnera', 'aubrieeta', 'astilbe', 'askleepias', 'angervaks', 'badaan', 'härjasilm', 'neiusilm', 'kuljuslill', 'kuldkann', 'kalevikepp', 'kuldlakk', 'lurslill', 'klarkia', 'käokuld', 'pärdiklill', 'päevakübar', 'nemeesia', 'asariin', 'gasaania', 'kipslill', 'seebilill', 'peiulill', 'soolill', 'heleenium', 'kuldvits', 'kuningakepp', 'käoking', 'liatris', 'levkoi', 'mailane', 'lõvilõug', 'murtudsüda', 'epimeedium', 'elulõng', 'begoonia', 'fuksia', 'jaanikakar', 'füüsal', 'randaster', 'maarjamalts', 'piimaohakas', 'saialill', 'geraanium', 'gerbera', 'pojeng', 'rakvere raibe', 'kollane kuldtäht', 'seenlill', 'seahernes', 'kuutõverohi', 'tähthein', 'kanakoole', 'muskuslill', 'kahelehine käokeel', 'talvik', 'kurekell', 'hammasjuur', 'koerakannike', 'jänesekapsas', 'käopäkk', 'palu-karukell', 'külmalill', 'lepiklill', 'jõulutäht', 'hortensia', 'kiikajonipuu', 'päevalill', 'jaanipuna', 'lõosilm', 'laanelill', 'kress', 'karikakar', 'godeetsia', 'floks', 'kanna', 'iiris', 'daalia', 'aster', 'krüsanteem', 'roos', 'harilik nurmenukk', 'ellerhein', 'lõikelill', 'aialill', 'anemoon', 'püsilill', 'balsamiin', 'lootos', 'käpaline', 'potilill', 'harilik võsalill', 'vahulill', 'antuurium', 'kepproos', 'nelk', 'maraia', 'magun', 'lavendel', 'haisev geraanium', 'lumeroos', 'metsülane']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['angiosperm']
+            </hypernyms>
+            <holonyms>
+                        ['sõlmparter', 'miksbordüür', 'lilleparter', 'lillbordüür', 'lillepeenar']
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>12</generated_size>
+                <actual_size>191</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>187</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>2</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>6</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>5</under_generated>
+            </holonym>
+            <total>
+                <generated_size>34</generated_size>
+                <actual_size>198</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>30</over_generated>
+                <under_generated>194</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="9" word="lill" type="nimisõna">
+        <generated>
+            <meaning>Kujundlik tähendus, mis tähendab midagi väga olulist või silmapaistvat.</meaning>
+            <example>Tema esitus oli kontserdi lill.</example>
+            <synonyms>['pärl', 'tippteos', 'meistriteos', 'meistrikäsitöö', 'meistritöö', 'kirsikimp', 'parim']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['ese', 'kõneviisid', 'koostisained', 'kvaliteet']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>lill.n.01</wn_name>
+            <meaning>kaunite õite, lehtede v. viljadega (roht)taim</meaning>
+            <synonyms>
+                        ['lill']
+            </synonyms>
+            <hyponyms>
+                        ['aas-geraanium', 'kopsurohi', 'kohhia', 'bellis', 'kirbutatar', 'kilpleht', 'kilbirohi', 'kassinaeris', 'roomav kummel', 'kann', 'kannatuslill', 'iisop', 'hiidiisop', 'hibisk', 'heliotroop', 'arabis', 'enelas', 'kosmos', 'sibullill', 'kurelill', 'tradeskantsia', 'salulill', 'ananassilill', 'kufee', 'selaginell', 'sahinlill', 'ruse', 'roniliilia', 'rõngaslill', 'rohtlaliilia', 'rodgersia', 'reseeda', 'harilik raudrohi', 'ageeratum', 'päikesesilm', 'püvilill', 'purpurvanik', 'pruudisõlg', 'preerialatern', 'portulak', 'portselanliilia', 'pisipööris', 'piiskenelas', 'petuunia', 'peekerlill', 'neitsikummel', 'naistenõges', 'mätashari', 'mõrsjalill', 'mõõl', 'monarda', 'mimoos', 'miina', 'metsvits', 'mesiohakas', 'merikann', 'meelistäht', 'maran', 'malve', 'malkolmia', 'lutiklill', 'lobeelia', 'lembeliilia', 'lehtertapp', 'lehterlill', 'käokannus', 'käbihein', 'kurgirohi', 'kuldlill', 'kukekannus', 'krambe', 'kõreliilia', 'kobarpea', 'kinglill', 'kipsleht', 'kilpkonnalill', 'keskpäevalill', 'kesalill', 'kellukas', 'kassitapp', 'kaksikkannus', 'jumikas', 'inkarvill', 'imikas', 'imelill', 'ibeeris', 'funkia', 'helmikpööris', 'ebamagun', 'brunnera', 'aubrieeta', 'astilbe', 'askleepias', 'angervaks', 'badaan', 'härjasilm', 'neiusilm', 'kuljuslill', 'kuldkann', 'kalevikepp', 'kuldlakk', 'lurslill', 'klarkia', 'käokuld', 'pärdiklill', 'päevakübar', 'nemeesia', 'asariin', 'gasaania', 'kipslill', 'seebilill', 'peiulill', 'soolill', 'heleenium', 'kuldvits', 'kuningakepp', 'käoking', 'liatris', 'levkoi', 'mailane', 'lõvilõug', 'murtudsüda', 'epimeedium', 'elulõng', 'begoonia', 'fuksia', 'jaanikakar', 'füüsal', 'randaster', 'maarjamalts', 'piimaohakas', 'saialill', 'geraanium', 'gerbera', 'pojeng', 'rakvere raibe', 'kollane kuldtäht', 'seenlill', 'seahernes', 'kuutõverohi', 'tähthein', 'kanakoole', 'muskuslill', 'kahelehine käokeel', 'talvik', 'kurekell', 'hammasjuur', 'koerakannike', 'jänesekapsas', 'käopäkk', 'palu-karukell', 'külmalill', 'lepiklill', 'jõulutäht', 'hortensia', 'kiikajonipuu', 'päevalill', 'jaanipuna', 'lõosilm', 'laanelill', 'kress', 'karikakar', 'godeetsia', 'floks', 'kanna', 'iiris', 'daalia', 'aster', 'krüsanteem', 'roos', 'harilik nurmenukk', 'ellerhein', 'lõikelill', 'aialill', 'anemoon', 'püsilill', 'balsamiin', 'lootos', 'käpaline', 'potilill', 'harilik võsalill', 'vahulill', 'antuurium', 'kepproos', 'nelk', 'maraia', 'magun', 'lavendel', 'haisev geraanium', 'lumeroos', 'metsülane']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['angiosperm']
+            </hypernyms>
+            <holonyms>
+                        ['sõlmparter', 'miksbordüür', 'lilleparter', 'lillbordüür', 'lillepeenar']
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>7</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>191</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>191</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>4</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>5</under_generated>
+            </holonym>
+            <total>
+                <generated_size>15</generated_size>
+                <actual_size>198</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>15</over_generated>
+                <under_generated>198</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="10" word="pall" type="nimisõna">
+        <generated>
+            <meaning>ümar ja veerev, tavaliselt kummist või muust sarnasest materjalist eset, mida kasutatakse mängimiseks.</meaning>
+            <example>Lapsed mängisid pargis jalkat ja pall lendas kõrgele õhku.</example>
+            <synonyms>['kerakujuline_ese', 'mänguvahend', 'mängupall', 'sportimisvahend', 'võistluspall']</synonyms>
+            <hyponyms>['jalgpall', 'korvpall', 'võrkpall', 'tennispall', 'pesapall', 'golfipall']</hyponyms>
+            <meronyms>['võrkpall', 'korvpall', 'jalkapall', 'käsipall', 'tennispall', 'golfipall', 'sulgpall', 'jäähokipall', 'pesapall', 'boccia_pall', 'rannavollepall', 'squashipall', 'baseballipall', 'ametlik_võistluspall', 'lihvitud_pall', 'võrkpallipall', 'ametlik_mängupall', 'kauboipall', 'nuripall', 'rugbipall', 'veepall', 'jalgpallipall', 'prillpall', 'ameerika_jalgpall', 'ameerika_jalgpallipall']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['mänguasi', 'veerev_ese']</hypernyms>
+            <holonyms>['võrkpall', 'korvpall', 'jalgpall', 'pesapall', 'tennispall', 'rahanduspall', 'käsipall']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>pall.n.01</wn_name>
+            <meaning>pallitaoline moodustis</meaning>
+            <synonyms>
+                        ['pall']
+            </synonyms>
+            <hyponyms>
+                        ['mullapall', 'lumepall', 'juurepall']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['moodustis']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>3</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>25</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>25</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>2</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>7</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>46</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>46</over_generated>
+                <under_generated>5</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="11" word="pall" type="nimisõna">
+        <generated>
+            <meaning>midagi, mis sarnaneb oma kuju või olemuse poolest palliga.</meaning>
+            <example>Küpseks saanud õunad langesid puu otsast maha, moodustades puu alla justkui suured punased pallid.</example>
+            <synonyms>['kerake', 'mumpel', 'kummipall', 'kiikpall', 'vinnapall', 'volle', 'jalgpall', 'korvpall', 'käsipall', 'pesapall', 'taldrik', 'taldrikkuju', 'taldrikukujuline']</synonyms>
+            <hyponyms>['õunapall', 'seebipall', 'lumepall', 'augustatud_pall', 'läbipaistev_pall', 'kummipall', 'plastpall', 'nahkpall', 'liimpall', 'saalihokipall', 'amorfne_pall', 'vedel_pall', 'tissotroopne_pall', 'roostevabast_terasest_pall', 'kivirändrahn', 'põlevkivipall', 'põhjapall', 'põhjaraud', 'raudpall', 'täispuurpall', 'täispall', 'puna', 'kaste', 'piljardpall', 'pommpall', 'mängupall', 'korvpall', 'jalgpall', 'liigapall', 'leiutaja_lemmikpall', 'heeringapall', 'hambaravipall', 'golfipall', 'tennispall', 'squashipall', 'käsipall', 'võrkpall', 'raudbetoonpall', 'betoonpall', 'porkunapall', 'luigeporkunapall', 'plütneri_porkunapall', 'pirniporkunapall', 'piimapall', 'pitsapall', 'piteklaaspall', 'pitepall', 'palliga_kraan', 'palkraan', 'pakkeraan', 'segistusraan', 'ussihaigus', 'ussipall', 'ussiker', 'ussikarits', 'õhupall', 'sõrmepall', 'helipall', 'hüpoksiapall', 'hapnipall', 'hägu', 'pass', 'matõll', 'täisõun', 'pitsasirm', 'mutter', 'lee', 'jõhvikas', 'huuliku_otsik', 'graanul', 'munakivi', 'monument', 'kerajõhvikas', 'kann', 'karikas', 'kauss', 'kera', 'klaaskuul', 'klaaspärl', 'klots', 'kobakäbi', 'koom', 'kott', 'kruus', 'kuppel', 'kübar', 'muna', 'õun', 'münt', 'nael', 'näriliste_pall', 'nööp', 'pea', 'puder', 'põis', 'pumpum', 'rind', 'sibul', 'seep', 'suurpliiats', 'pomm', 'toru', 'tükike', 'tükk', 'uss', 'uisk', 'veinipudel', 'kuul', 'spiraal', 'silm', 'rosett', 'porkuni', 'puder', 'poti-', 'pedo-', 'palli-', 'pallikujuline_kera', 'panus', 'pallike', 'pallikene', 'ovalise_kujuga_kerakujuline_keha', 'munakujuline_kerajas_keha', 'kuulike', 'kandiline_kerajaskuju', 'graanul', 'kuubik', 'tükike', 'tükk']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['eseme_sünonüüm', 'keerulise_kujuga_eseme_sünonüüm', 'ümmarguse_eseme_sünonüüm', 'kuju_sünonüüm', 'ümara_kuju_sünonüüm', 'suhteliselt_väike_ümmargune_eseme_sünonüüm']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>pall.n.01</wn_name>
+            <meaning>pallitaoline moodustis</meaning>
+            <synonyms>
+                        ['pall']
+            </synonyms>
+            <hyponyms>
+                        ['mullapall', 'lumepall', 'juurepall']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['moodustis']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>13</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>13</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>128</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>123</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>150</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>145</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="12" word="pall" type="nimisõna">
+        <generated>
+            <meaning>mõõtühik vinna-, klots- või rullmaterjali hulga mõõtmiseks.</meaning>
+            <example>Klient ostis poest terve palli kaunist paela oma käsitööprojekti jaoks.</example>
+            <synonyms>['vinn', 'klots', 'rull']</synonyms>
+            <hyponyms>['vabandust,_kuid_pythoni_estnltk_wordnetis_ei_ole_antud_kontekstis_määratletud_sõna_"pall"_allhüponüüme.']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['mõõtühik', 'mõõtmine', 'materjal', 'kaup', 'vinna-,_klots-_või_rullmaterjal', 'kirjatarve']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>pall.n.01</wn_name>
+            <meaning>pallitaoline moodustis</meaning>
+            <synonyms>
+                        ['pall']
+            </synonyms>
+            <hyponyms>
+                        ['mullapall', 'lumepall', 'juurepall']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['moodustis']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>3</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>13</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>13</over_generated>
+                <under_generated>5</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="13" word="tihane" type="nimisõna">
+        <generated>
+            <meaning>Väike põõsastes ja puudel pesitsev laululind, kes sööb põhiliselt putukaid ja seemneid.</meaning>
+            <example>Tihane hüppas oksalt oksale, otsides toitu.</example>
+            <synonyms>['puuduvad_sünonüümid_pythoni_estnltk_wordnetis_selle_sõna_jaoks.']</synonyms>
+            <hyponyms>['sinitihane', 'talvike', 'rasvatihane', 'põhjatihane', 'laulurästas', 'metsvint', 'hallrästas', 'põldvarblane', 'kurvits', 'kiur', 'hallpea-rähn', 'pasknäär', 'põhja-konnakotkas', 'punaselg-õgija', 'mets-kirjurähn', 'põhja-siniraag', 'eider', 'hahk', 'harakas', 'hallpõsk-lagle', 'imelind', 'kajakas', 'kana', 'kanakull', 'kassikakk', 'kesknokk-part', 'kiivitaja', 'koprapääsuke', 'kotkas', 'krauk', 'kull', 'kuningkotkas', 'laululuik', 'linavästrik', 'lõoke', 'marsu', 'merikotkas', 'merikotkas', 'musta-kõhtuviirekajakas', 'musthabe', 'mustjalg-tuldnokk', 'mustkalakotkas', 'mustkärbsenäpp', 'nokk', 'nurmkana', 'orav', 'pardi', 'part', 'peoleo', 'pesukaru', 'pääsuke', 'põldlõoke', 'põldvarblane', 'põllupüü', 'põõsalind', 'päevakoer', 'pärlkana', 'rästas', 'rähn', 'rästas', 'sajajalgne', 'salu-lehelind', 'siberi_leevike', 'siidhaigrutaja', 'siksak', 'sinikael-part', 'siniraag', 'sosnovski', 'suur-kirjurähn', 'suur-lauk', 'suur-laukhani', 'suurnokk-part', 'tülli', 'tõmmuvarblane', 'turteltuvi', 'tuuletallaja', 'viu', 'vurr', 'õõnetuvi', 'öösorr', 'ühevärv', 'ülespoolepööratud_kõhupart', 'äänisjänes', 'ööbik', 'hallkajakas', 'koerliblikas', 'rääk', 'kanarbik', 'sookurg', 'kormoran', 'siksak', 'linavästrik', 'kuningpingviin', 'randtiir', 'pruunpelikan', 'punarind', 'argpüks', 'varblane', 'kajakas', 'punatihane', 'talvike', 'laulurästas', 'metsvint', 'hallrästas', 'põldvarblane', 'kurvits', 'rahvuskangelane', 'kiur', 'hallpea-rähn', 'pasknäär', 'põhja-konnakotkas', 'hüljes', 'punaselg-õgija', 'mets-kirjurähn', 'põhja-siniraag', 'punatihane', 'mustpea-põõsalind', 'kuningpingviin', 'randtiir', 'pruunpelikan', 'punarind', 'rüütel', 'metslind', 'lind', 'laululind', 'varblane', 'kodulind', 'vareslind', 'põõsalind', 'linnuke', 'imelind', 'part', 'rästas', 'kajakas', 'kurvits', 'kaelus-part', 'kiivitaja', 'jõgivästrik', 'kodukana', 'kotkas', 'krauk', 'kull', 'kuningkotkas', 'põõsalind', 'pesukaru', 'varblane', 'põldlõoke', 'põldvarblane', 'põllupüü', 'põõsalind', 'pärlkana', 'viu', 'rästas', 'rähn', 'rästas', 'siniraag', 'tihane', 'turteltuvi', 'tuuletallaja', 'viu', 'vurr', 'ööbik', 'rääk', 'öösorr', 'täpikhuik', 'turteltuvi', 'argpüks', 'varblane', 'robin', 'laulurästas', 'metsvint', 'hallrästas', 'imelind', 'põõsalind', 'kevadine_lind', 'lõokeselind', 'laululind', 'metslind', 'lind', 'jumala_linnuke', 'varblane', 'põõsalind', 'pesukaru', 'lind', 'kana', 'kotkas', 'linnuke', 'rebane', 'pardi', 'part', 'siksak', 'kesknokk-part', 'kiivitaja', 'linavästrik', 'lõoke', 'part', 'põldvarblane', 'rästas', 'tuhkur', 'tihane', 'turteltuvi', 'kana', 'pardi', 'kestvuskutse', 'tihane', 'tülli', 'turteltuvi', 'kana', 'rästas', 'lõoke', 'ämblik', 'kana', 'siidhaigrutaja', 'metslind', 'linnupoeg', 'laululind', 'jumala_linnuke', 'varblane', 'põllulind', 'lind', 'imelind', 'part', 'põõsalind', 'saledakeha', 'rästas', 'rähn', 'rästas', 'siksak', 'õõnetuvi', 'ämblik', 'öösorr', 'türp', 'linavästrik', 'prillmadu', 'rääk', 'pardi', 'part', 'linavästrik', 'lõoke', 'jõgivästrik', 'lind', 'tihane', 'turteltuvi', 'rant', 'tülli', 'turteltuvi', 'part', 'kestvuskutse', 'turdulind', 'pardi', 'part', 'vihmakäpp', 'linavästrik', 'lõoke', 'randapääsuke', 'rästas', 'tihane', 'turteltuvi', 'kana', 'rästas', 'lõoke', 'türklind', 'kana', 'lind', 'lootuslinnuke', 'metslind', 'laululind', 'varblane', 'põllulind', 'imelind', 'part', 'kotkas', 'põõsalind', 'kull', 'tihane', 'turteltuvi', 'kana', 'rästas', 'lõoke', 'ämblik', 'türklind', 'lind', 'metslind', 'laululind', 'linnuke', 'varblane', 'imelind', 'part', 'linnuke', 'lind', 'ämblik', 'mardikas', 'rebane', 'kotkas', 'kaelakuhi', 'kotkas', 'kana', 'rästas', 'kakuke', 'tihane', 'turteltuvi', 'kana', 'rästas', 'lõoke', 'tülli', 'turteltuvi']</hyponyms>
+            <meronyms>['tihase_tiib', 'tihase_nokk', 'tihase_saba', 'tihase_silm', 'tihase_laul']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['lind', 'laululind', 'paridae']</hypernyms>
+            <holonyms>['linnud', 'passeriformes', 'tihaslased']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>tihane.n.01</wn_name>
+            <meaning>lühikese peenikese nokaga väike lind (Parus) (EKSS)</meaning>
+            <synonyms>
+                        ['tihane']
+            </synonyms>
+            <hyponyms>
+                        ['sabatihane']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['laululind']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>306</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>131</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>319</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>143</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="14" word="kapsas" type="nimisõna">
+        <generated>
+            <meaning>mitmeaastane keerdlehtedega taim (Brassica oleracea), mida kasvatatakse köögiviljana.</meaning>
+            <example>Lõikasin paar kapsapead salatiks.</example>
+            <synonyms>['puuduvad_sünonüümid.']</synonyms>
+            <hyponyms>['valge_kapsas', 'punane_kapsas', 'hiina_kapsas', 'lillkapsas', 'spargelkapsas', 'lehtkapsas']</hyponyms>
+            <meronyms>['kapsapea', 'kapsaleht', 'kapsavars']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['taim', 'köögivili', 'raskasvatussaadus']</hypernyms>
+            <holonyms>['köögivili', 'taim']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>kapsas.n.03</wn_name>
+            <meaning>ristõieline köögivilja- ja söödakultuur (hrl. Brassica oleracea) (EKSS)</meaning>
+            <synonyms>
+                        ['kapsas', 'kapsataim']
+            </synonyms>
+            <hyponyms>
+                        ['lillkapsas', 'asparkapsas', 'peakapsas', 'lehtkapsas', 'brüsseli kapsas', 'käharkapsas', 'hiina kapsas', 'koolrabi']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['köögivili']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>8</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>6</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>16</generated_size>
+                <actual_size>11</actual_size>
+                <overlapping>3</overlapping>
+                <over_generated>13</over_generated>
+                <under_generated>8</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="15" word="kapsas" type="nimisõna">
+        <generated>
+            <meaning>levinud köögivili, mille taimed moodustavad tihe lehtkoore ja südamiku.</meaning>
+            <example>Ostsime turult pool kapsast.</example>
+            <synonyms>['kapsaliha', 'kapsapea', 'kapsapäis', 'kapsasalus', 'kapsasool', 'kapsasüda', 'köögikapsas', 'valge_kapsas', 'lehtkapsas', 'punane_kapsas', 'hapukapsas', 'hakklihakapsas', 'kapsapuder', 'kapsaupp', 'kapsavorm', 'tuiukapsas']</synonyms>
+            <hyponyms>['valgekapsas', 'lillkapsas', 'punane_kapsas', 'lehtkapsas', 'hiina_kapsas', 'kapsa_perekonna_taim', 'brokoli', 'savoy_kapsas', 'spargelkapsas']</hyponyms>
+            <meronyms>['kapsaleht', 'kapsapea', 'kapsasüda']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['köögivili', 'taim', 'toit']</hypernyms>
+            <holonyms>['köögivili', 'taim']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>kapsas.n.01</wn_name>
+            <meaning>piltl kulunud, narmendav, katkine raamat, kaustik, vihik vms (EKSS)</meaning>
+            <synonyms>
+                        ['kapsas']
+            </synonyms>
+            <hyponyms>
+                        ['raamatukapsas']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['trükis']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>16</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>16</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>9</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>34</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>34</over_generated>
+                <under_generated>3</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="16" word="Ülikool" type="Nimisõna">
+        <generated>
+            <meaning>Kõrgharidusasutus, mis pakub teadusliku uurimistööga seotud bakalaureuse-, magistri- ja doktoriõppe programme.</meaning>
+            <example>Ta on õppinud Tartu Ülikoolis filosoofiat.</example>
+            <synonyms>['kõrgkool', 'akatemmia', 'kolledž', 'instituut']</synonyms>
+            <hyponyms>['eriülikool', 'muusikaakadeemia', 'metsakõrgkool', 'pedagoogikaülikool', 'tehnikaülikool', 'veterinaariaülikool', 'mereakadeemia', 'spordiülikool', 'kaunite_kunstide_kõrgkool', 'tantsukunstide_kõrgkool', 'draamakool', 'kunstiakadeemia', 'filmiakadeemia', 'direktoriakadeemia', 'muusikateatriakadeemia', 'õigusakadeemia', 'lennundustehnika_instituut', 'rahvusülikool', 'tehnikainstituut', 'kunstiinstituut', 'autonoomne_ülikool', 'üldteaduslik_ülikool', 'sõjaülikool', 'rahuülikool', 'võrdleva_usuteaduse_ülikool', 'teoloogiaülikool', 'kirikuõiguse_ülikool']</hyponyms>
+            <meronyms>['teaduskond', 'kursus', 'õppetool', 'labor', 'auditoorium', 'raamatukogu', 'üliõpilane', 'professor', 'dekaan', 'rektor', 'dotsent', 'õppejõud', 'majandusteaduskond', 'humanitaarteaduskond', 'loodusteaduskond', 'juura', 'instituut', 'seminar', 'loeng', 'konverents', 'akadeemia', 'magistrant', 'doktorant', 'bakalaureus', 'doktor', 'magister', 'korporatsioon', 'üliõpilaskond', 'ühiselamu', 'ülikoolilinnak', 'dekanaat', 'rektoraat', 'fuajee', 'toitlustus', 'sportimisvõimalused']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['haridusasutus', 'kõrgkool', 'asutus']</hypernyms>
+            <holonyms>['õppesüsteem', 'kõrgharidussüsteem']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>27</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>27</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>35</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>35</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>72</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>72</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="17" word="Ülikool" type="Nimisõna">
+        <generated>
+            <meaning>Hoone või hoonete kompleks, kus toimub kõrghariduse andmine.</meaning>
+            <example>Ülikool on kaunis, vanu ja uuemaid stiile ühendavate hoonetega kompleks.</example>
+            <synonyms>['kõrgkool', 'akadeemia']</synonyms>
+            <hyponyms>['tehnikaülikool', 'meditsiiniülikool', 'kunstiülikool', 'tartu_ülikool', 'tallinna_tehnikaülikool', 'tallinna_ülikool', 'eesti_maaülikool', 'eesti_kunstiakadeemia', 'tallinna_tehnikaülikool', 'eesti_muusika-_ja_teatriakadeemia', 'kunstiakadeemia', 'kunstikool', 'tehnikakool', 'maaülikool', 'majanduskool', 'meditsiinikool', 'muusikakool', 'pedagoogikakool', 'seminar', 'teatrikool', 'tütarlaste_seminar', 'tütarlastegümnaasium', 'ülikooli_praktikakool', 'ülikoolilinnak', 'riiklik_ülikool', 'eraülikool', 'kõrgem_kommete_instituut', 'riigiteaduste_instituut', 'tehnoloogia_instituut', 'tervishoiu_kõrgkool', 'tartu_ülikooli_pärnu_kolledž', 'tartu_ülikooli_viljandi_kultuuriakadeemia', 'kunstiülikool', 'kunstikool', 'muusikaakadeemia', 'muusikakool', 'teatriakadeemia', 'kunstikool', 'muusikaakadeemia', 'muusikakool', 'teatriakadeemia', 'teatrikool', 'haridusteaduskond', 'humanitaarteaduskond', 'loodusteaduskond', 'sotsiaalteaduskond', 'tehnikateaduskond', 'majandusteaduskond', 'riigiteaduste_teaduskond', 'terveysteaduskond', 'instituudid', 'riigiteaduste_instituut', 'ingeneriinstituut', 'kommunikatsiooniteaduste_instituut', 'teadusklinik', 'teadusklinika', 'muuseum', 'raamatukogu', 'ühikas', 'auditoorium', 'kõrgharidus', 'teadmised']</hyponyms>
+            <meronyms>['auditoorium', 'biblioteek', 'labor', 'loengusaal', 'õppetool']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['haridusasutus', 'hoone', 'asutus', 'institutsioon', 'kool', 'struktuur', 'organisatsioon', 'ühendus']</hypernyms>
+            <holonyms>['linn', 'riik']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>62</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>52</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>80</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>70</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="18" word="guugeldamine" type="nimisõna">
+        <generated>
+            <meaning>Küberargoomis interneti vahendusel otsingu teostamine, eriti kasutades selleks Google otsingumootorit.</meaning>
+            <example>Ta oli seda fakti guugeldades mõni nädal tagasi välja uurinud.</example>
+            <synonyms>['']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['otsing', 'teadmiste_otsimine', 'uurimine']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="19" word="arvuti" type="nimisõna">
+        <generated>
+            <meaning>elektrooniline seade, mis võtab vastu andmeid (sisend), töötleb neid automaatsete protseduuride kaudu ning genereerib tulemused (väljund)</meaning>
+            <example>Ta kasutas keeruliste arvutuste tegemiseks oma arvutit.</example>
+            <synonyms>['sülearvuti', 'laiekraaniarvuti', 'kaasaskantav_arvuti', 'tööjaam', 'personaalarvuti', 'mikroarvuti', 'miniarvuti', 'suurarvuti', 'superarvuti', 'server', 'arvutisüsteem', 'arvutikomplekt', 'mänguarvuti', 'turvaarvuti', 'opiarvuti', 'keskarvuti', 'põhjarvuti', 'baasarvuti', 'sihtarvuti', 'ematarvuti', 'ülearvuti', 'jahtarvuti', 'allarvuti', 'tihti-arvuti', 'tasuarvuti', 'peaarvuti', 'saarearvuti', 'hajaarvuti', 'ristarvuti', 'ilma-arvuti', 'protsessorijaam', 'koormusjaotur', 'teenindusjaam', 'töötlemisjaam', 'massaarvuti', 'pilvserver', 'võrguserver', 'failiserver', 'proksiserver', 'võrguketas', 'veebiserver', 'prindiserver', 'meiliserver', 'mänguserver', 'dns-server', 'võtmeserver', 'ajaserver', 'peegliserver', 'pildiserver', 'küpsiseserver', 'talletusserver', 'kommutaator', 'pesamikroarvuti', 'transpordiserver', 'seansiserver', 'printserver', 'kitserver', 'automaatserver', 'slaidiserver', 'andmeserver', 'terminaliserver', 'suhtlusserver', 'kliendiarvuti', 'turuterminator', 'heliterminator', 'üldmasin', 'ruuter', 'marsruuter', 'värav', 'tolmuimur', 'satelliit', 'antenn', 'virtuaaljaam', 'nõlvaruuter', 'satelliitjaam', 'tõusuringi_antenn', 'na.skulaator', 'optimaator', 'suunajaam', 'lift', 'optimeerija', 'võlurelaide', 'logist', 'ruutija', 'tuletis', 'tuletaja', 'marssija', 'jahiurva', 'kaabel', 'kaabliruuter', 'modem', 'mellujaam', 'ühissõlmpunkt', 'ühisvahesõlm', 'sõlmpunkt', 'ühendidusmasin', 'lõikesõlm', 'ühisesõlmpunkt', 'ümbersõlmpunkt', 'ühispunkt', 'lüütukspunkt', 'ühisesmmpunkt', 'ümberpöördepunkt', 'tukspunkt', 'dialoogkastiserver']</synonyms>
+            <hyponyms>['mikroarvuti', 'sülearvuti', 'lauaarvuti', 'miniarvuti', 'superarvuti', 'taskuarvuti', 'tööjaam', 'server', 'mänguarvuti', 'pööninguarvuti']</hyponyms>
+            <meronyms>['mälu', 'protsessor', 'kõvaketas', 'ekraan', 'klaviatuur', 'hiir', 'graafikakaart', 'võrgukaart', 'operatsioonisüsteem', 'emaplaat', 'toiteplokk']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['elektrooniline_süsteem', 'seade', 'tehnoloogia', 'infovahend']</hypernyms>
+            <holonyms>['arvutisüsteem', 'infotehnoloogia', 'arvutivõrk', 'andmesidevõrk', 'tarkvarasüsteem', 'arvutiteadus', 'arvutitehnika']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>arvuti.n.01</wn_name>
+            <meaning>seade v. seadmestik arvutuste automatiseerimiseks v. andmetöötluseks (EKSS)</meaning>
+            <synonyms>
+                        ['arvuti', 'elektronarvuti', 'kompuuter', 'raal']
+            </synonyms>
+            <hyponyms>
+                        ['sait', 'klient', 'laptop', 'kihlveokassa', 'mapiarvuti', 'skelettarvuti', 'hübriidarvuti', 'tööjaam', 'tööjaam', 'lauaarvuti', 'mängukonsool', 'digitaalarvuti', 'analoogarvuti', 'eriarvuti', 'monoplaatarvuti', 'põhiarvuti', 'zombiarvuti', 'netiarvuti', '64-bitine masin', 'serverjaam', 'klientjaam', 'arvutipõlv', 'juhtarvuti', 'turingi masin', 'host', 'host', 'kvantarvuti', 'virtuaalarvuti', 'sihtmasin', 'hostmasin', 'sihtmasin', 'partner', 'kaugarvuti', 'andmebaasimasin', 'tööarvuti', 'eesarvuti', 'hostmasin']
+            </hyponyms>
+            <meronyms>
+                        ['funktsionaalüksus']
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['aparaat']
+            </hypernyms>
+            <holonyms>
+                        ['arvutitehnika', 'arvutikauplus']
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>105</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>105</over_generated>
+                <under_generated>4</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>10</generated_size>
+                <actual_size>37</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>31</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>11</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>1</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>4</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>7</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </holonym>
+            <total>
+                <generated_size>138</generated_size>
+                <actual_size>45</actual_size>
+                <overlapping>3</overlapping>
+                <over_generated>135</over_generated>
+                <under_generated>38</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="20" word="arvuti" type="nimisõna">
+        <generated>
+            <meaning>Seade, mida kasutatakse teabe, nagu teksti, piltide ja heli, hoidmiseks, haldamiseks ja töötlemiseks.</meaning>
+            <example>Mul on vaja uut arvutit, et hoida sammu kõige uuema tarkvaraga.</example>
+            <synonyms>['sülearvuti', 'laudarvuti', 'tõmbetöötlusjaam', 'töölauaarvuti', 'mikroarvuti', 'nutitelefon', 'tahvelarvuti', 'palmiarvuti', 'personaalarvuti', 'süsteemiüksus', 'mobiilarvuti']</synonyms>
+            <hyponyms>['sülearvuti', 'laudarvuti', 'miniarvuti', 'superarvuti', 'riistvara', 'tarkvara', 'mänguarvuti', 'tööjaam', 'server', 'võrguarvuti', 'põhiarvuti', 'süsteemikast', 'emotikonarvuti', 'mikroarvuti', 'nanarvuti', 'palmiarvuti', 'prototüüparvuti', 'turboarvuti', 'kvantarvuti', 'neuroarvuti']</hyponyms>
+            <meronyms>['kõvaketas', 'protsessor', 'klaviatuur', 'hiir', 'monitor', 'operatsioonisüsteem', 'ram', 'videokaart', 'emaplaat', 'toiteplokk']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['elektrooniline_süsteem', 'seade', 'digitaliseerija', 'informatsiooniprotsessor', 'masin', 'süsteem']</hypernyms>
+            <holonyms>['arvutisüsteem', 'võrk', 'andmetöötlussüsteem', 'infotehnoloogia_süsteem', 'uurimisseade', 'rakendusseade', 'tööjaam', 'andmesidevahend', 'elektrooniline_arvuti']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>arvuti.n.02</wn_name>
+            <meaning>lihtsateks arvutusteks kasutatav laua- v. taskuarvuti, mille tööd juhib vahetult kasutaja klahvistiku abil</meaning>
+            <synonyms>
+                        ['arvuti', 'kalkulaator', 'klahvarvuti', 'lauaarvuti', 'taskuarvuti']
+            </synonyms>
+            <hyponyms>
+                        ['aritmomeeter']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['aparaat']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>11</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>5</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>20</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>20</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>10</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>9</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>57</generated_size>
+                <actual_size>7</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>57</over_generated>
+                <under_generated>7</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+</synsets>

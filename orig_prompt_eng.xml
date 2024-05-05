@@ -1,0 +1,3028 @@
+<synsets>
+    <synset id="1" word="Crane" type="Nouns">
+        <generated>
+            <meaning>A tall, long-legged, long-necked bird, typically with white or gray plumage and often with tail plumes and patches of bare red skin on the head. Cranes are noted for their elaborate courtship dances.</meaning>
+            <example>The crane gracefully danced in the marsh.</example>
+            <synonyms>['stork', 'heron', 'egret']</synonyms>
+            <hyponyms>['common_crane', 'sandhill_crane', 'whooping_crane', 'brolga', 'sarus_crane', 'demoiselle_crane', 'red-crowned_crane', 'grus', 'black-necked_crane', 'blue_crane', 'grey_crowned_crane', 'wattled_crane', 'white-naped_crane', 'hooded_crane', 'siberian_crane', 'black_crowned_crane']</hyponyms>
+            <meronyms>['plumage', 'beak', 'legs', 'wings', 'tail', 'claw']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['bird', 'wading_bird', 'gruidae']</hypernyms>
+            <holonyms>['gruidae', 'aves', 'chordata', 'animalia', 'crane_family', 'birds']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>crane.n.05</wn_name>
+            <meaning>large long-necked wading bird of marshes and plains in many parts of the world</meaning>
+            <synonyms>
+                        ['crane']
+            </synonyms>
+            <hyponyms>
+                        ['whooping_crane']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['wading_bird']
+            </hypernyms>
+            <holonyms>
+                        ['gruidae']
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>16</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>15</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>6</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>35</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>3</overlapping>
+                <over_generated>32</over_generated>
+                <under_generated>1</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="2" word="Crane" type="Nouns">
+        <generated>
+            <meaning>Large tall machine that moves heavy objects by suspending them from a projecting arm or beam.</meaning>
+            <example>Construction workers operated the crane to lift steel beams.</example>
+            <synonyms>['derrick', 'hoist', 'mobile_crane', 'tower_crane', 'jib']</synonyms>
+            <hyponyms>['tower_crane', 'floating_crane', 'mobile_crane', 'crawler_crane', 'telescopic_crane', 'rough_terrain_crane', 'overhead_crane', 'loader_crane']</hyponyms>
+            <meronyms>['boom', 'cab', 'jib', 'hoist', 'pulley']</meronyms>
+            <antonyms>['lower', 'drop', 'depress']</antonyms>
+            <hypernyms>['construction_equipment', 'machine', 'lifting_device']</hypernyms>
+            <holonyms>['construction_site', 'building_equipment']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>crane.n.04</wn_name>
+            <meaning>lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis</meaning>
+            <synonyms>
+                        ['crane']
+            </synonyms>
+            <hyponyms>
+                        ['davit', 'derrick', 'transporter']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['lifting_device']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>8</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>3</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>26</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>25</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="3" word="Crane" type="Verbs">
+        <generated>
+            <meaning>To stretch out one's body or neck in order to see something.</meaning>
+            <example>She had to crane her neck to see the movie screen.</example>
+            <synonyms>['stretch', 'strain', 'extend']</synonyms>
+            <hyponyms>['stretch', 'strain', 'lean', 'peer', 'gape']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['contract', 'retract', 'shrink']</antonyms>
+            <hypernyms>['stretch', 'strain', 'reach']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>crane.v.01</wn_name>
+            <meaning>stretch (the neck) so as to see better</meaning>
+            <synonyms>
+                        ['crane', 'stretch_out']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['stretch']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>16</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>15</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="4" word="Crane" type="Verbs">
+        <generated>
+            <meaning>To move (a heavy object) with a crane.</meaning>
+            <example>They craned the piano into the moving truck.</example>
+            <synonyms>['lift', 'hoist', 'heave']</synonyms>
+            <hyponyms>['lift', 'hoist', 'elevate', 'raise', 'uplift', 'haul_up']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['lower', 'descend', 'drop']</antonyms>
+            <hypernyms>['move', 'transport', 'shift']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>crane.n.04</wn_name>
+            <meaning>lifts and moves heavy objects; lifting tackle is suspended from a pivoted boom that rotates around a vertical axis</meaning>
+            <synonyms>
+                        ['crane']
+            </synonyms>
+            <hyponyms>
+                        ['davit', 'derrick', 'transporter']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['lifting_device']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>3</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>17</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>17</over_generated>
+                <under_generated>5</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="5" word="Computer" type="Noun">
+        <generated>
+            <meaning>An electronic device for storing and processing data, typically in binary form, according to instructions given to it in a variable program.</meaning>
+            <example>I use my computer to write essays for my university classes.</example>
+            <synonyms>['processor', 'mainframe', 'microcomputer', 'pc', 'personal_computer', 'workstation', 'laptop', 'desktop', '']</synonyms>
+            <hyponyms>['desktop', 'laptop', 'supercomputer', 'mainframe', 'minicomputer', 'microcomputer', 'personal_computer', 'workstation', 'server', 'tablet', 'smartphone', 'game_console', 'embedded_system']</hyponyms>
+            <meronyms>['cpu', 'hard_drive', 'memory', 'motherboard', 'computer_mouse', 'keyboard', 'monitor', 'power_supply', 'video_card', 'sound_card', 'network_card', 'operating_system', 'software']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['digital_computer', 'electronic_equipment', 'equipment']</hypernyms>
+            <holonyms>['computer_network', 'computer_system']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>computer.n.01</wn_name>
+            <meaning>a machine for performing calculations automatically</meaning>
+            <synonyms>
+                        ['computer', 'computing_machine', 'computing_device', 'data_processor', 'electronic_computer', 'information_processing_system']
+            </synonyms>
+            <hyponyms>
+                        ['analog_computer', 'digital_computer', 'home_computer', 'node', 'number_cruncher', 'pari-mutuel_machine', 'predictor', 'server', 'turing_machine', 'web_site']
+            </hyponyms>
+            <meronyms>
+                        ['busbar', 'cathode-ray_tube', 'central_processing_unit', 'chip', 'computer_accessory', 'computer_circuit', 'data_converter', 'disk_cache', 'diskette', 'hardware', 'keyboard', 'memory', 'monitor', 'peripheral']
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['machine']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>9</generated_size>
+                <actual_size>6</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>6</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>13</generated_size>
+                <actual_size>10</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>9</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>13</generated_size>
+                <actual_size>14</actual_size>
+                <overlapping>3</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>11</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>41</generated_size>
+                <actual_size>31</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>37</over_generated>
+                <under_generated>27</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="6" word="Computer" type="Noun">
+        <generated>
+            <meaning>A person who makes calculations or computations, especially one employed to do this in an observatory.</meaning>
+            <example>In the 19th century, a "computer" was a person who performed calculations for astronomers.</example>
+            <synonyms>['calculator', 'reckoner', 'estimator', 'tabulator', 'figurer']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['calculator', 'mathematician', 'counter']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>computer.n.01</wn_name>
+            <meaning>a machine for performing calculations automatically</meaning>
+            <synonyms>
+                        ['computer', 'computing_machine', 'computing_device', 'data_processor', 'electronic_computer', 'information_processing_system']
+            </synonyms>
+            <hyponyms>
+                        ['analog_computer', 'digital_computer', 'home_computer', 'node', 'number_cruncher', 'pari-mutuel_machine', 'predictor', 'server', 'turing_machine', 'web_site']
+            </hyponyms>
+            <meronyms>
+                        ['busbar', 'cathode-ray_tube', 'central_processing_unit', 'chip', 'computer_accessory', 'computer_circuit', 'data_converter', 'disk_cache', 'diskette', 'hardware', 'keyboard', 'memory', 'monitor', 'peripheral']
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['machine']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>6</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>6</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>10</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>10</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>14</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>14</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>12</generated_size>
+                <actual_size>31</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>31</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="7" word="University" type="Noun">
+        <generated>
+            <meaning>An educational institution designed for instruction, examination, or both, of students in many branches of advanced learning, conferring degrees in various faculties, and often embodying colleges and similar institutions.</meaning>
+            <example>Michelle studied chemistry at the university for four years.</example>
+            <synonyms>['academy', 'institute', 'school', 'educational_institution', 'college', 'learning_establishment', 'higher_education_institution', 'degree-granting_institution']</synonyms>
+            <hyponyms>['community_college', 'ivy_league', 'private_university', 'public_university', 'technical_institute', 'university_system', 'vocational_university', 'liberal_arts_college', 'research_university', 'professional_school', 'engineering_school', 'medical_school', 'business_school', 'law_school', 'graduate_school', 'military_academy', 'online_university']</hyponyms>
+            <meronyms>['faculty', 'department', 'research_lab', 'library', 'dormitory', 'cafeteria', 'classroom', 'computer_lab']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['educational_institution', 'post-secondary_institution', 'academic_institution']</hypernyms>
+            <holonyms>['university_system']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>university.n.03</wn_name>
+            <meaning>a large and diverse institution of higher learning created to educate for life and for a profession and to grant degrees</meaning>
+            <synonyms>
+                        ['university']
+            </synonyms>
+            <hyponyms>
+                        ['multiversity', 'open_university']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['educational_institution']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>8</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>17</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>17</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>38</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>37</over_generated>
+                <under_generated>3</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="8" word="University" type="Noun">
+        <generated>
+            <meaning>The members of this institution as a societal body, including students and faculty.</meaning>
+            <example>The entire university was buzzing with excitement about the upcoming football match.</example>
+            <synonyms>['academy', 'college', 'institution_of_higher_education', 'educational_institution', '']</synonyms>
+            <hyponyms>['sorority', 'fraternity', 'student_body', 'faculty', 'alumni_association']</hyponyms>
+            <meronyms>['faculty', 'student_body', 'department', 'college', 'dormitory', 'library', 'laboratory', 'classroom']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['educational_institution', 'institution', 'community']</hypernyms>
+            <holonyms>['university_system']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>university.n.01</wn_name>
+            <meaning>the body of faculty and students at a university</meaning>
+            <synonyms>
+                        ['university']
+            </synonyms>
+            <hyponyms>
+                        ['gown', 'varsity']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['body']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>5</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>23</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>23</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="9" word="Tongue" type="Noun">
+        <generated>
+            <meaning>The fleshy muscular organ in the mouth of a mammal, used for tasting, licking, swallowing, and (in humans) articulating speech.</meaning>
+            <example>She stuck her tongue out in a rude gesture.</example>
+            <synonyms>['lingua', 'palate', 'taste_buds']</synonyms>
+            <hyponyms>['taste_bud', 'epiglottis', 'papilla', 'frenulum']</hyponyms>
+            <meronyms>['tastebud', 'lingual_tonsil', 'lingua']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['muscular_organ', 'body_part', 'organ', 'anatomical_structure', 'mammal_anatomy']</hypernyms>
+            <holonyms>['mouth', 'face', 'head', 'body']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>natural_language.n.01</wn_name>
+            <meaning>a human written or spoken language used by a community; opposed to e.g. a computer language</meaning>
+            <synonyms>
+                        ['natural_language', 'tongue']
+            </synonyms>
+            <hyponyms>
+                        ['afroasiatic', 'amerind', 'austro-asiatic', 'austronesian', 'basque', 'caucasian', 'chukchi', 'creole', 'dravidian', 'elamitic', 'eskimo-aleut', 'hmong', 'indo-european', 'kassite', 'khoisan', 'mother_tongue', 'niger-kordofanian', 'nilo-saharan', 'papuan', 'sino-tibetan', 'tone_language', 'ural-altaic']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        ['artificial_language']
+            </antonyms>
+            <hypernyms>
+                        ['language']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>4</generated_size>
+                <actual_size>22</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>22</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>1</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>20</generated_size>
+                <actual_size>26</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>20</over_generated>
+                <under_generated>26</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="10" word="Tongue" type="Noun">
+        <generated>
+            <meaning>A particular foreign language.</meaning>
+            <example>She has a good command of the French tongue.</example>
+            <synonyms>['language', 'lingo', 'dialect', 'speech', 'idiom', 'jargon', 'lingua', 'vernacular', 'vocabulary']</synonyms>
+            <hyponyms>['french', 'spanish', 'italian', 'german', 'mandarin', 'japanese']</hyponyms>
+            <meronyms>['french', 'english', 'spanish', 'german', 'mandarin', 'japanese', 'russian', 'arabic', 'italian', 'portuguese', 'hindi']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['language', 'speech', 'human_communication']</hypernyms>
+            <holonyms>['language']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>9</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>11</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>31</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>31</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="11" word="Tongue" type="Noun">
+        <generated>
+            <meaning>The free surface of an elongated flexible organ in humans, analogous in position to the mammalian tongue.</meaning>
+            <example>The snake's tongue flicked in and out.</example>
+            <synonyms>['lingua', 'organ', 'lapper']</synonyms>
+            <hyponyms>['forked_tongue', 'snake_tongue', 'chameleon_tongue', 'lizard_tongue']</hyponyms>
+            <meronyms>['tip_of_the_tongue', 'back_of_the_tongue', 'underneath_of_the_tongue']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['organ', 'anatomical_structure', 'body_part']</hypernyms>
+            <holonyms>['mouth', 'head', 'body', 'animal']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>clapper.n.03</wn_name>
+            <meaning>metal striker that hangs inside a bell and makes a sound by hitting the side</meaning>
+            <synonyms>
+                        ['clapper', 'tongue']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['striker']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>2</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>18</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>18</over_generated>
+                <under_generated>3</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="12" word="Tongue" type="Noun">
+        <generated>
+            <meaning>A narrow strip of land that juts out into the sea.</meaning>
+            <example>A long tongue of land stretched out into the sea.</example>
+            <synonyms>['spit', 'promontory', 'peninsula', 'headland', 'cape', 'point']</synonyms>
+            <hyponyms>['peninsula', 'cape', 'isthmus', 'causeway', 'promontory', 'headland', 'spit']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['headland', 'promontory', 'cape', 'peninsula']</hypernyms>
+            <holonyms>['cape', 'peninsula', 'isthmus']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>spit.n.01</wn_name>
+            <meaning>a narrow strip of land that juts out into the sea</meaning>
+            <synonyms>
+                        ['spit', 'tongue']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['cape']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>6</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>7</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>4</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>22</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>20</over_generated>
+                <under_generated>1</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="13" word="Tongue" type="Verb">
+        <generated>
+            <meaning>To articulate (notes on a wind instrument) by interrupting the wind flow with the tongue.</meaning>
+            <example>He could accurately tongue even the most complex passages on his saxophone.</example>
+            <synonyms>['articulate', 'pronounce', 'enunciate', 'utter', 'express', 'voice', 'sound']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['articulate', 'pronounce', 'play']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>tongue.v.01</wn_name>
+            <meaning>articulate by tonguing, as when playing wind instruments</meaning>
+            <synonyms>
+                        ['tongue']
+            </synonyms>
+            <hyponyms>
+                        ['double_tongue']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['play']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>7</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>14</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>13</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="14" word="Tongue" type="Verb">
+        <generated>
+            <meaning>Lick or caress with the tongue.</meaning>
+            <example>The dog tongue its fur to clean itself.</example>
+            <synonyms>['lap', 'lick']</synonyms>
+            <hyponyms>['french_kiss', 'lick', 'lap']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['lick', 'caress', 'clean']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>tongue.v.02</wn_name>
+            <meaning>lick or explore with the tongue</meaning>
+            <synonyms>
+                        ['tongue']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['lick']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>2</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>11</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>1</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="15" word="Carrot" type="Noun">
+        <generated>
+            <meaning>A tapering orange-colored root eaten as a vegetable.</meaning>
+            <example>He peeled and chopped the carrots for the stew.</example>
+            <synonyms>['there_are_no_exact_synonyms_for_"carrot"_in_this_context.']</synonyms>
+            <hyponyms>['baby_carrot', 'wild_carrot', 'danvers_carrot', 'nantes_carrot', 'imperator_carrot', 'belgian_carrot', 'chantenay_carrot']</hyponyms>
+            <meronyms>['carotene', 'carotin']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['root_vegetable', 'vegetable', 'plant_product', 'food', 'biotic_factor']</hypernyms>
+            <holonyms>['carrot_plant']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>carrot.n.01</wn_name>
+            <meaning>deep orange edible root of the cultivated carrot plant</meaning>
+            <synonyms>
+                        ['carrot']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['root']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>7</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>17</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>17</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="16" word="Carrot" type="Noun">
+        <generated>
+            <meaning>Something offered as a lure or incentive.</meaning>
+            <example>The company used a cash bonus as a carrot to incentivize productivity.</example>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['stick', 'discouragement', 'punishment']</antonyms>
+            <hypernyms>['incentive', 'enticement', 'bait']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>0</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>0</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>9</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="17" word="Jumping" type="Adjective">
+        <generated>
+            <meaning>Moving or causing to move upward or forward in a single quick motion or a series of such motions.</meaning>
+            <example>The jumping frog caught the fly.</example>
+            <synonyms>['leaping', 'hopping', 'springing']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['stationary', 'still', 'immobile']</antonyms>
+            <hypernyms>['active', 'moving', 'propulsive']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>jump.v.01</wn_name>
+            <meaning>move forward by leaps and bounds</meaning>
+            <synonyms>
+                        ['jump', 'leap', 'bound', 'spring']
+            </synonyms>
+            <hyponyms>
+                        ['bounce', 'bounce', 'burst', 'caper', 'capriole', 'curvet', 'galumph', 'hop', 'hop', 'leapfrog', 'pronk', 'saltate', 'ski_jump', 'vault', 'vault']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['move']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>4</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>15</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>12</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>12</generated_size>
+                <actual_size>20</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>17</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="18" word="Jumping" type="Noun">
+        <generated>
+            <meaning>The act of leaping into the air.</meaning>
+            <example>The horse was good at jumping over obstacles.</example>
+            <synonyms>['leaping', 'bounding', 'hopping', 'springing', 'vaulting', 'bouncing', 'skipping', 'hurdling']</synonyms>
+            <hyponyms>['high_jump', 'long_jump', 'pole_vault', 'bungee_jump', 'hurdle', 'hopscotch', 'leapfrog', 'base_jump', 'skydive']</hyponyms>
+            <meronyms>['leap', 'hop', 'skip', 'jump', 'bounce', 'spring']</meronyms>
+            <antonyms>['sitting', 'standing', 'resting']</antonyms>
+            <hypernyms>['leap', 'spring', 'bounding']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>jumping.n.01</wn_name>
+            <meaning>the act of participating in an athletic competition in which you must jump</meaning>
+            <synonyms>
+                        ['jumping']
+            </synonyms>
+            <hyponyms>
+                        ['broad_jump', 'high_jump']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['track_and_field']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>8</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>9</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>6</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>30</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>29</over_generated>
+                <under_generated>3</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="19" word="Jumping" type="Verb">
+        <generated>
+            <meaning>To push oneself into the air, using one’s legs and feet.</meaning>
+            <example>The kids were jumping on the trampoline all afternoon.</example>
+            <synonyms>['leaping', 'bouncing', 'hopping', 'springing', 'vaulting', 'skipping', 'bounding', 'pouncing']</synonyms>
+            <hyponyms>['bounding', 'skipping', 'vaulting', 'pouncing', 'leaping', 'springing', 'hopping']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['sitting', 'standing', 'resting']</antonyms>
+            <hypernyms>['leap', 'bounce', 'spring']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>jumping.n.01</wn_name>
+            <meaning>the act of participating in an athletic competition in which you must jump</meaning>
+            <synonyms>
+                        ['jumping']
+            </synonyms>
+            <hyponyms>
+                        ['broad_jump', 'high_jump']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['track_and_field']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>8</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>7</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>23</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>23</over_generated>
+                <under_generated>4</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="20" word="bark" type="verb">
+        <generated>
+            <meaning>(of a dog) make a loud, rough noise.</meaning>
+            <example>The dog barked at the mailman.</example>
+            <synonyms>['yelp', 'howl', 'bay', 'woof', 'growl', 'bellow']</synonyms>
+            <hyponyms>['growl', 'howl', 'yelp', 'snarl', 'snap', 'woof']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['whisper', 'be_quiet', 'hush']</antonyms>
+            <hypernyms>['utter', 'emit', 'vocalize']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.v.04</wn_name>
+            <meaning>make barking sounds</meaning>
+            <synonyms>
+                        ['bark']
+            </synonyms>
+            <hyponyms>
+                        ['bay', 'yelp']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['utter']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>6</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>6</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>20</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>18</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="21" word="bark" type="noun">
+        <generated>
+            <meaning>The sharp explosive cry of a dog, fox, or seal.</meaning>
+            <example>They were awakened by the dog's bark.</example>
+            <synonyms>['yelp', 'howl', 'woof', 'bay']</synonyms>
+            <hyponyms>['yap', 'yelp', 'woof', 'howl', 'growl']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['silence', 'whisper', 'murmur']</antonyms>
+            <hypernyms>['animal_sound', 'cry', 'sound']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.n.01</wn_name>
+            <meaning>tough protective covering of the woody stems and roots of trees and other woody plants</meaning>
+            <synonyms>
+                        ['bark']
+            </synonyms>
+            <hyponyms>
+                        ['angostura_bark', 'canella', 'cascara', 'cascarilla_bark', 'cassia_bark', 'cinchona', 'cinnamon', 'cinnamon_bark', 'cork', 'magnolia', 'mezereum', 'phellem', 'tanbark', 'tapa', "winter's_bark"]
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['covering']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>4</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>5</generated_size>
+                <actual_size>15</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>15</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>17</generated_size>
+                <actual_size>17</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>17</over_generated>
+                <under_generated>17</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="22" word="bark" type="verb">
+        <generated>
+            <meaning>Irritably or angrily snap or speak at.</meaning>
+            <example>Jane barked her criticism at everyone on the team.</example>
+            <synonyms>['snap', 'snarl', 'spit', 'retort', 'reprimand']</synonyms>
+            <hyponyms>['snap', 'snarl', 'shout']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['praise', 'compliment', 'appreciate', 'speak_gently']</antonyms>
+            <hypernyms>['snap', 'speak', 'communicate']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.v.01</wn_name>
+            <meaning>speak in an unfriendly tone</meaning>
+            <synonyms>
+                        ['bark']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['talk']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>17</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>17</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="23" word="bark" type="noun">
+        <generated>
+            <meaning>The tough protective outer sheath of the trunk, branches, and twigs of a tree or woody shrub.</meaning>
+            <example>The bark of the old oak tree was rough and cracked.</example>
+            <synonyms>['rind', 'cortex', 'husk']</synonyms>
+            <hyponyms>['cork', 'bark_beetle', 'periderm', 'phellem', 'cambium', 'phelloderm', 'rhytidome', 'phloem', 'inner_bark', 'outer_bark', 'vascular_tissue', 'cambium_layer', 'silvics', 'xylem']</hyponyms>
+            <meronyms>['phloem', 'cork', 'rhytidome']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['sheath', 'tree_covering', 'plant_tissue']</hypernyms>
+            <holonyms>['tree', 'branch', 'twig']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.n.01</wn_name>
+            <meaning>tough protective covering of the woody stems and roots of trees and other woody plants</meaning>
+            <synonyms>
+                        ['bark']
+            </synonyms>
+            <hyponyms>
+                        ['angostura_bark', 'canella', 'cascara', 'cascarilla_bark', 'cassia_bark', 'cinchona', 'cinnamon', 'cinnamon_bark', 'cork', 'magnolia', 'mezereum', 'phellem', 'tanbark', 'tapa', "winter's_bark"]
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['covering']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>14</generated_size>
+                <actual_size>15</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>13</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>27</generated_size>
+                <actual_size>17</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>25</over_generated>
+                <under_generated>15</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="24" word="bark" type="verb">
+        <generated>
+            <meaning>Strip the bark from (a tree or piece of wood).</meaning>
+            <example>The loggers barked the trees before they were cut down.</example>
+            <synonyms>['peel', 'debark', 'skin']</synonyms>
+            <hyponyms>['debark', 'peel', 'unbark']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['remove', 'strip', 'peel']</hypernyms>
+            <holonyms>['tree', 'wood']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.v.03</wn_name>
+            <meaning>remove the bark of a tree</meaning>
+            <synonyms>
+                        ['bark', 'skin']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['strip']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>13</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>11</over_generated>
+                <under_generated>1</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="25" word="bark" type="noun">
+        <generated>
+            <meaning>A sailing ship, typically with three masts, in which the foremast and mainmast are square-rigged and the mizzenmast is rigged fore-and-aft.</meaning>
+            <example>He watched the old bark set sail from the harbor.</example>
+            <synonyms>['barque', 'three-master', 'sailing_vessel']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['foremast', 'mainmast', 'mizzenmast']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['sailing_ship', 'vessel', 'watercraft']</hypernyms>
+            <holonyms>['fleet', 'navy', 'armada']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bark.n.03</wn_name>
+            <meaning>a sailing ship with 3 (or more) masts</meaning>
+            <synonyms>
+                        ['bark', 'barque']
+            </synonyms>
+            <hyponyms>
+                        []
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['sailing_vessel']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>14</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>13</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="26" word="Headphones" type="Noun">
+        <generated>
+            <meaning>A pair of earphones typically joined by a band placed over the head, for listening to audio signals such as music or speech.</meaning>
+            <example>I purchased a new pair of headphones to enjoy the music better.</example>
+            <synonyms>['earphones', 'headset', 'earpiece', 'auditory_device', 'sound_transmitter', 'audio_headset', 'stereo_phones']</synonyms>
+            <hyponyms>['earbuds', 'wireless_headphones', 'noise-cancelling_headphones', 'bluetooth_headphones', 'over-ear_headphones', 'in-ear_headphones', 'studio_headphones', 'gaming_headphones', 'sports_headphones', 'dj_headphones']</hyponyms>
+            <meronyms>['speaker', 'wire', 'earphone', 'headband', 'jack_plug']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['earphones', 'audio_equipment', 'sound_system']</hypernyms>
+            <holonyms>['stereo_system', 'audio_equipment']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>earphone.n.01</wn_name>
+            <meaning>electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear</meaning>
+            <synonyms>
+                        ['earphone', 'earpiece', 'headphone', 'phone']
+            </synonyms>
+            <hyponyms>
+                        ['earplug', 'telephone_receiver']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['electro-acoustic_transducer']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>7</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>6</over_generated>
+                <under_generated>3</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>10</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>28</generated_size>
+                <actual_size>7</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>27</over_generated>
+                <under_generated>6</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="27" word="Headphones" type="Noun">
+        <generated>
+            <meaning>A device worn over the ears that converts electrical signals into sound.</meaning>
+            <example>My headphones help me to stay focused on my work by blocking outside noise.</example>
+            <synonyms>['earphones', 'earbuds', 'headset', 'cans', 'buds']</synonyms>
+            <hyponyms>['earbuds', 'wireless_headphones', 'noise-cancelling_headphones', 'bluetooth_headphones', 'in-ear_headphones', 'over-ear_headphones', 'studio_headphones', 'gaming_headphones', 'sports_headphones', 'dj_headphones']</hyponyms>
+            <meronyms>['earpiece', 'jack_plug']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['audio_equipment', 'sound_system', 'electrical_device']</hypernyms>
+            <holonyms>['stereo_system', 'sound_system']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>earphone.n.01</wn_name>
+            <meaning>electro-acoustic transducer for converting electric signals into sounds; it is held over or inserted into the ear</meaning>
+            <synonyms>
+                        ['earphone', 'earpiece', 'headphone', 'phone']
+            </synonyms>
+            <hyponyms>
+                        ['earplug', 'telephone_receiver']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['electro-acoustic_transducer']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>4</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>4</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>10</generated_size>
+                <actual_size>2</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>2</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>23</generated_size>
+                <actual_size>7</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>23</over_generated>
+                <under_generated>7</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="28" word="frog" type="noun">
+        <generated>
+            <meaning>A tailless amphibian with a short squat body, moist smooth skin, and very long hind legs for leaping.</meaning>
+            <example>The backyard pond is full of frogs.</example>
+            <synonyms>['toad', 'newt', 'salamander']</synonyms>
+            <hyponyms>['bullfrog', 'tree_frog', 'leopard_frog', 'marsh_frog', 'poison_dart_frog', 'tomato_frog', 'fire-bellied_toad', 'african_clawed_frog', 'green_frog', 'american_toad', 'common_frog']</hyponyms>
+            <meronyms>['hind_leg', 'foreleg', 'toe', 'mouth', 'eye', 'skin', 'tadpole']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['amphibian', 'animal', 'organism']</hypernyms>
+            <holonyms>['bufonidae', 'rana', 'discoglossidae', 'hylidae', 'leptodactylidae', 'ranidae', 'pipidae', 'microhylidae']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>frog.n.01</wn_name>
+            <meaning>any of various tailless stout-bodied amphibians with long hind limbs for leaping; semiaquatic and terrestrial species</meaning>
+            <synonyms>
+                        ['frog', 'toad', 'toad_frog', 'anuran', 'batrachian', 'salientian']
+            </synonyms>
+            <hyponyms>
+                        ['barking_frog', 'crapaud', 'eastern_narrow-mouthed_toad', 'fire-bellied_toad', 'leptodactylid_frog', 'liopelma_hamiltoni', 'midwife_toad', 'obstetrical_toad', 'robber_frog', 'sheep_frog', 'south_american_poison_toad', 'spadefoot', 'tailed_frog', 'tongueless_frog', 'tree_frog', 'tree_toad', 'true_frog', 'true_toad', 'western_narrow-mouthed_toad']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['amphibian']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>6</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>5</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>11</generated_size>
+                <actual_size>19</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>9</over_generated>
+                <under_generated>17</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>7</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>33</generated_size>
+                <actual_size>26</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>29</over_generated>
+                <under_generated>22</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="29" word="frog" type="noun">
+        <generated>
+            <meaning>An elastic horny pad growing in the sole of a horse’s hoof, helping to absorb the shock of impact.</meaning>
+            <example>The farrier ensured the horse's frog was healthy and not showing signs of thrush.</example>
+            <synonyms>['']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['hoof', 'sole']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['pad', 'body_part', 'animal_body_part']</hypernyms>
+            <holonyms>["horse's_foot", 'hoof']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>10</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="30" word="frog" type="noun">
+        <generated>
+            <meaning>A thing used to hold or fasten something, in particular.</meaning>
+            <example>She tied her hair back with a small green frog.</example>
+            <synonyms>['fastener', 'clamp', 'clip', 'holder', 'grip']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['fastener', 'clamp', 'holder']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>5</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>5</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>12</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>12</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="31" word="frog" type="noun">
+        <generated>
+            <meaning>A device on a violin, cello, or related instrument that allows a player to tighten or loosen the hair of the bow.</meaning>
+            <example>He tightened the frog on his violin bow before starting to play.</example>
+            <synonyms>['there_are_no_synonyms_for_this_specific_definition_of_"frog".']</synonyms>
+            <hyponyms>['']</hyponyms>
+            <meronyms>['no_meronyms_were_found_for_this_definition_of_the_word_frog.']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['device', 'instrument_part', 'musical_instrument_accessory']</hypernyms>
+            <holonyms>['bow']</holonyms>
+        </generated>
+        <actual>NONE</actual>
+        <stats>
+
+            <synonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="32" word="flowers" type="Nouns">
+        <generated>
+            <meaning>The seed-bearing part of a plant, consisting of reproductive organs (stamens and carpels) that are typically surrounded by a brightly colored corolla (petals) and a green calyx (sepals).</meaning>
+            <example>The garden was adorned with beautiful flowers.</example>
+            <synonyms>['blossoms', 'blooms', 'flora']</synonyms>
+            <hyponyms>['rose', 'tulip', 'daisy', 'sunflower', 'carnation', 'orchid', 'lily', 'daffodil', 'marigold', 'geranium', 'begonia', 'pansy', 'petunia', 'snapdragon', 'chrysanthemum', 'azalea', 'freesia', 'iris', 'peony', 'hyacinth', 'violet', 'poppy', 'zinnia', 'crocus', 'aster', 'lupine', 'dahlia', 'magnolia', 'hibiscus', 'lavender']</hyponyms>
+            <meronyms>['petal', 'stamen', 'carpel', 'corolla', 'calyx', 'sepal', 'pistil', 'stigma', 'flower_head', 'anther', 'ovary']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['plant_part', 'reproductive_structure', 'biological_structure']</hypernyms>
+            <holonyms>['plant', 'flowering_plant']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>flower.n.02</wn_name>
+            <meaning>reproductive organ of angiosperm plants especially one having showy or colorful parts</meaning>
+            <synonyms>
+                        ['flower', 'bloom', 'blossom']
+            </synonyms>
+            <hyponyms>
+                        ['apetalous_flower', 'bud', 'chrysanthemum', 'floret', 'inflorescence', 'ray_flower']
+            </hyponyms>
+            <meronyms>
+                        ['carpel', 'floral_leaf', 'ovary', 'perianth', 'pistil', 'stamen']
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['reproductive_structure']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>3</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>30</generated_size>
+                <actual_size>6</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>29</over_generated>
+                <under_generated>5</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>11</generated_size>
+                <actual_size>6</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>2</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>2</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>50</generated_size>
+                <actual_size>16</actual_size>
+                <overlapping>6</overlapping>
+                <over_generated>44</over_generated>
+                <under_generated>10</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="33" word="flowers" type="Nouns">
+        <generated>
+            <meaning>A decorative representation of a flower that is used in art or as a symbol.</meaning>
+            <example>The wallpaper features a design of pink flowers.</example>
+            <synonyms>['floral_designs', 'floral_patterns', 'floral_representations']</synonyms>
+            <hyponyms>['roses', 'sunflowers', 'tulips', 'daisies', 'carnations', 'orchids', 'peonies', 'lilies', 'pansies', 'marigolds']</hyponyms>
+            <meronyms>['petal', 'sepal', 'stamen', 'carpel', 'pistil', 'ovary', 'corolla', 'calyx']</meronyms>
+            <antonyms>['']</antonyms>
+            <hypernyms>['decoration', 'symbol', 'artwork']</hypernyms>
+            <holonyms>['floral_arrangement', 'bouquet', 'garden']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>flower.n.01</wn_name>
+            <meaning>a plant cultivated for its blooms or blossoms</meaning>
+            <synonyms>
+                        ['flower']
+            </synonyms>
+            <hyponyms>
+                        ['achimenes', 'african_daisy', 'african_daisy', 'african_daisy', 'african_violet', 'ageratum', 'ammobium', 'anemone', 'aster', "baby's_breath", 'bartonia', 'begonia', 'bellwort', 'billy_buttons', 'blazing_star', 'bloomer', 'blue-eyed_african_daisy', 'blue_daisy', 'brass_buttons', 'bush_violet', 'butterfly_flower', 'calceolaria', 'calendula', 'calla_lily', 'candytuft', 'cape_marigold', 'carolina_spring_beauty', 'catananche', 'centaury', 'china_aster', 'christmas_bells', 'chrysanthemum', 'cineraria', 'columbine', 'commelina', 'composite', 'coneflower', 'coneflower', 'coral_drops', 'cornflower', 'corydalis', 'cosmos', 'cotton_rose', 'cowherb', 'cyclamen', 'dahlia', 'daisy', 'damask_violet', 'delphinium', 'easter_daisy', 'fig_marigold', "florest's_cineraria", "four_o'clock", 'gazania', 'gentian', 'gerardia', 'globe_amaranth', 'heliophila', 'horn_poppy', 'kingfisher_daisy', 'lace-flower_vine', 'lesser_celandine', 'lychnis', 'malcolm_stock', 'marigold', 'mexican_sunflower', 'mistflower', 'nigella', 'orchid', 'oxeye_daisy', 'painted_daisy', 'peony', 'petunia', "pheasant's-eye", 'pink', 'poppy', 'portulaca', 'prairie_rocket', 'prairie_rocket', 'red_valerian', 'rocket_larkspur', 'rue_anemone', 'sandwort', 'sandwort', 'sandwort', 'scabious', 'scarlet_musk_flower', 'schizopetalon', 'scorpionweed', 'shortia', 'silene', 'snapdragon', 'soapwort', 'sowbread', 'spathiphyllum', 'spring_beauty', 'stock', "stokes'_aster", 'streptocarpus', 'sunflower', 'swan_river_daisy', 'sweet_alyssum', 'sweet_sultan', 'sweet_sultan', 'texas_star', 'tidytips', 'toadflax', 'tuberose', 'umbrellawort', 'ursinia', 'valerian', 'verbena', 'veronica', 'virginia_spring_beauty', 'virginian_stock', 'wallflower', 'wallflower', 'wandflower', 'western_wall_flower', 'white-topped_aster', 'woodland_star', 'xeranthemum', 'zinnia']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['angiosperm']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>10</generated_size>
+                <actual_size>123</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>10</over_generated>
+                <under_generated>115</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>8</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>8</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>28</generated_size>
+                <actual_size>125</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>28</over_generated>
+                <under_generated>117</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="34" word="flowers" type="Nouns">
+        <generated>
+            <meaning>The finest individuals out of a number of people or things.</meaning>
+            <example>Our athletes are the flowers of our nation.</example>
+            <synonyms>['cream_of_the_crop', 'elite', 'best', 'top-drawer', 'crème_de_la_crème', 'pick_of_the_litter', 'a-list']</synonyms>
+            <hyponyms>['elite', 'cream_of_the_crop', 'crème_de_la_crème']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['ordinary_individuals', 'average_people', 'mediocre_members']</antonyms>
+            <hypernyms>['individual', 'superior', 'elite']</hypernyms>
+            <holonyms>['group', 'population', 'community', 'society']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>flower.n.03</wn_name>
+            <meaning>the period of greatest prosperity or productivity</meaning>
+            <synonyms>
+                        ['flower', 'prime', 'peak', 'heyday', 'bloom', 'blossom', 'efflorescence', 'flush']
+            </synonyms>
+            <hyponyms>
+                        ['golden_age']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['time_period']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>7</generated_size>
+                <actual_size>8</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>8</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>1</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>4</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>21</generated_size>
+                <actual_size>10</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>21</over_generated>
+                <under_generated>10</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="35" word="flowers" type="Verbs">
+        <generated>
+            <meaning>To develop fully and reach maturity.</meaning>
+            <example>His talent for music flowered at an early age.</example>
+            <synonyms>['blossom', 'bloom', 'flourish', 'develop', 'mature', 'grow']</synonyms>
+            <hyponyms>['blossom', 'bloom', 'flourish', 'thrive', 'unfold', 'grow', 'mature']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['wither', 'decay', 'fail']</antonyms>
+            <hypernyms>['develop', 'mature', 'grow']</hypernyms>
+            <holonyms>['']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bloom.v.01</wn_name>
+            <meaning>produce or yield flowers</meaning>
+            <synonyms>
+                        ['bloom', 'blossom', 'flower']
+            </synonyms>
+            <hyponyms>
+                        ['effloresce']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['develop']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>6</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>7</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>7</over_generated>
+                <under_generated>1</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>21</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>3</overlapping>
+                <over_generated>18</over_generated>
+                <under_generated>2</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+    <synset id="36" word="flowers" type="Verbs">
+        <generated>
+            <meaning>To produce flowers; bloom.</meaning>
+            <example>The cherry trees will soon begin to flower.</example>
+            <synonyms>['blossom', 'bloom', 'flourish', 'sprout']</synonyms>
+            <hyponyms>['blossom', 'bud', 'bloom', 'blow', 'effloresce']</hyponyms>
+            <meronyms>['']</meronyms>
+            <antonyms>['wither', 'decay', 'wane']</antonyms>
+            <hypernyms>['blossom', 'grow', 'develop']</hypernyms>
+            <holonyms>['plant', 'tree', 'cherry_tree']</holonyms>
+        </generated>
+        <actual>
+            <wn_name>bloom.v.01</wn_name>
+            <meaning>produce or yield flowers</meaning>
+            <synonyms>
+                        ['bloom', 'blossom', 'flower']
+            </synonyms>
+            <hyponyms>
+                        ['effloresce']
+            </hyponyms>
+            <meronyms>
+                        []
+            </meronyms>
+            <antonyms>
+                        []
+            </antonyms>
+            <hypernyms>
+                        ['develop']
+            </hypernyms>
+            <holonyms>
+                        []
+            </holonyms>
+        </actual>
+        <stats>
+
+            <synonym>
+                <generated_size>4</generated_size>
+                <actual_size>3</actual_size>
+                <overlapping>2</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>1</under_generated>
+            </synonym>
+            <hyponym>
+                <generated_size>5</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>4</over_generated>
+                <under_generated>0</under_generated>
+            </hyponym>
+            <meronym>
+                <generated_size>1</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>1</over_generated>
+                <under_generated>0</under_generated>
+            </meronym>
+            <antonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </antonym>
+            <hypernym>
+                <generated_size>3</generated_size>
+                <actual_size>1</actual_size>
+                <overlapping>1</overlapping>
+                <over_generated>2</over_generated>
+                <under_generated>0</under_generated>
+            </hypernym>
+            <holonym>
+                <generated_size>3</generated_size>
+                <actual_size>0</actual_size>
+                <overlapping>0</overlapping>
+                <over_generated>3</over_generated>
+                <under_generated>0</under_generated>
+            </holonym>
+            <total>
+                <generated_size>19</generated_size>
+                <actual_size>5</actual_size>
+                <overlapping>4</overlapping>
+                <over_generated>15</over_generated>
+                <under_generated>1</under_generated>
+            </total>
+
+        </stats>
+    </synset>
+</synsets>
